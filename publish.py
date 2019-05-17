@@ -8,6 +8,7 @@ import datetime
 def format_kdb(tmp, _posts):
 
     ref = set(str(tmp).split("/"))
+    ref.add("kdb")
 
     dest = _posts
 
