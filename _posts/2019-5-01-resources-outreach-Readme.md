@@ -1,8 +1,8 @@
 ---
 title: "Outreach \U0001f4e3"
 categories:
-  - kdb
-set: kdb
+  - resources
+set: resources
 ---
 
 # Outreach 📣

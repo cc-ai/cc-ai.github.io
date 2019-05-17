@@ -1,8 +1,8 @@
 ---
 title: "Github at `cc-ai` : getting started \U0001f94b"
 categories:
-  - kdb
-set: kdb
+  - workflow
+set: workflow
 ---
 
 # Github at `cc-ai` : getting started 🥋

@@ -1,8 +1,8 @@
 ---
 title: "Behavioral Sciences \U0001f9e0"
 categories:
-  - kdb
-set: kdb
+  - domains
+set: domains
 ---
 
 # Behavioral Sciences 🧠

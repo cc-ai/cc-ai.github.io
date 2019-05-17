@@ -1,8 +1,8 @@
 ---
 title: "News \U0001f5de"
 categories:
-  - kdb
-set: kdb
+  - resources
+set: resources
 ---
 
 # News 🗞

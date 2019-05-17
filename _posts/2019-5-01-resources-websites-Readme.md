@@ -1,8 +1,8 @@
 ---
 title: "Websites \U0001f5a5"
 categories:
-  - kdb
-set: kdb
+  - resources
+set: resources
 ---
 
 # Websites 🖥

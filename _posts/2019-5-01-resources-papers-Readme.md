@@ -1,8 +1,8 @@
 ---
 title: "Papers \U0001f4dc"
 categories:
-  - kdb
-set: kdb
+  - resources
+set: resources
 ---
 
 # Papers 📜

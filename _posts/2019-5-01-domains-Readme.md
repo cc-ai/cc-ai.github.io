@@ -1,8 +1,8 @@
 ---
 title: "CCAI Task distribution \U0001f3d7"
 categories:
-  - kdb
-set: kdb
+  - domains
+set: domains
 ---
 
 # CCAI Task distribution 🏗

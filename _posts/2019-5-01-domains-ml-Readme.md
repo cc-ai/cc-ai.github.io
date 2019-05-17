@@ -1,8 +1,8 @@
 ---
 title: "Machine Learning \U0001f916"
 categories:
-  - kdb
-set: kdb
+  - domains
+set: domains
 ---
 
 # Machine Learning 🤖

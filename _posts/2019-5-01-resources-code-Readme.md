@@ -1,8 +1,8 @@
 ---
 title: "Code \U0001f4bb"
 categories:
-  - kdb
-set: kdb
+  - resources
+set: resources
 ---
 
 # Code 💻

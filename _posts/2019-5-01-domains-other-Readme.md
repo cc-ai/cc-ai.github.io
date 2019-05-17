@@ -1,8 +1,8 @@
 ---
 title: "Other Initiatives \U0001f389"
 categories:
-  - kdb
-set: kdb
+  - domains
+set: domains
 ---
 
 # Other Initiatives 🎉

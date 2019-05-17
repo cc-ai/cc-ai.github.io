@@ -1,8 +1,8 @@
 ---
 title: "Data \U0001f381"
 categories:
-  - kdb
-set: kdb
+  - domains
+set: domains
 ---
 
 # Data 🎁
