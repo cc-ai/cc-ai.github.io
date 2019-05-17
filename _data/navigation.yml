@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: FAQ
+  link: /faq/
+- name: Github
+  link: https://github.com/cc-ai/kdb
