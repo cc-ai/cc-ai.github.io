@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://cc-ai.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cc-ai.github.io/" rel="alternate" type="text/html" /><updated>2019-05-17T16:09:21+00:00</updated><id>https://cc-ai.github.io/</id><title type="html">CCAI - KDB</title><subtitle>Climate Change AI project at Mila's shared knowledge base</subtitle><author><name>vict0rsch</name><email>schmidtv@mila.quebec</email></author><entry><title type="html">Who’s who?</title><link href="https://cc-ai.github.io/workflow/workflow-whoswho/" rel="alternate" type="text/html" title="Who's who?" /><published>2019-05-01T00:00:00+00:00</published><updated>2019-05-01T00:00:00+00:00</updated><id>https://cc-ai.github.io/workflow/workflow-whoswho</id><content type="html" xml:base="https://cc-ai.github.io/workflow/workflow-whoswho/">&lt;h1 id=&quot;whos-who&quot;&gt;Who’s who?&lt;/h1&gt;
+
+&lt;p&gt;Learn about others, share about yourself!&lt;/p&gt;
+
+&lt;p&gt;(every field is obviously optional)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Github&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Name&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Twitter / website&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Contribution&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Affiliation&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Time dedication&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Currently working on&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Interests / Other&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;@vict0rsch&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Victor Schmidt&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://twitter.com/vict0rsch&quot;&gt;vict0rsch&lt;/a&gt;, &lt;a href=&quot;https://vict0rs.ch&quot;&gt;vict0rs.ch&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ml, meta, data&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;PhD @ Mila&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;50-75%&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Attention Cycle GANs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;previously &lt;a href=&quot;https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/hopkins.html&quot;&gt;Public Interest Entrepreneur&lt;/a&gt; in France ; built &lt;a href=&quot;https://metada.org&quot;&gt;metada.org&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;@sashavor&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Sasha Luccioni&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://mila.quebec/en/person/sasha-luccioni/&quot;&gt;Mila profile&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ml, meta, data, behavioral&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Postdoc @ Mila&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;150%&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Segmentation&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;@elenab&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Elena Busila&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://www.linkedin.com/in/elenabusila/&quot;&gt;LinkedIn&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;frontend, backend, devops, tooling&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;AI Developer @Element AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;20% of my work week when possible&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Frontend&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;(Discuss this document in &lt;a href=&quot;https://github.com/cc-ai/kdb/issues/39&quot;&gt;#39&lt;/a&gt;)&lt;/p&gt;</content><author><name>vict0rsch</name><email>schmidtv@mila.quebec</email></author><summary type="html">Who’s who?</summary></entry><entry><title type="html">Github at `cc-ai` : getting started 🥋</title><link href="https://cc-ai.github.io/workflow/workflow-gettingstarted/" rel="alternate" type="text/html" title="Github at `cc-ai` : getting started 🥋" /><published>2019-05-01T00:00:00+00:00</published><updated>2019-05-01T00:00:00+00:00</updated><id>https://cc-ai.github.io/workflow/workflow-gettingstarted</id><content type="html" xml:base="https://cc-ai.github.io/workflow/workflow-gettingstarted/">&lt;h1 id=&quot;github-at-cc-ai--getting-started-&quot;&gt;Github at &lt;code class=&quot;highlighter-rouge&quot;&gt;cc-ai&lt;/code&gt; : getting started 🥋&lt;/h1&gt;
+
+&lt;p&gt;Hello and welcome to the CCAI GitHub!&lt;/p&gt;
+
+&lt;p&gt;In this repository, we will of course share code, but also links, articles, websites, and ideas. We will also use it for defining who does what task (i.e. ticket) and follow the progress of tickets and tasks as they evolve.&lt;/p&gt;
+
+&lt;p&gt;Don’t worry if you’ve never used GitHub before! You can actually use GitHub without knowing ANY code at all. It’s really a straightforward tool, and this document will help you cover the basics.&lt;/p&gt;
+
+&lt;h2 id=&quot;git-&quot;&gt;Git 🌵&lt;/h2&gt;
+
+&lt;p&gt;Git is a software to do version control, which means it will save any changes being done without overwriting any past work. This means that even if several people are working on the same file at the same time, each person can upload their changes to the page, and Git will save both copies. Later, they can be &lt;b&gt; merged &lt;/b&gt; together without anyone losing their work. You can even go back to a previous version at any point, because Git will keep a history of every change ever made. Typically, git is used via a &lt;a href=&quot;http://guides.beanstalkapp.com/version-control/common-git-commands.html&quot;&gt;terminal or command line&lt;/a&gt; and stores the versions on your computer. But GitHub allows us to store the content and versions online ; plus, it adds a user interface on top of Git, which makes it possible to download and change files from your browser or your desktop, make comments, suggest fixes, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;vocabulary-&quot;&gt;Vocabulary 🙊&lt;/h2&gt;
+
+&lt;p&gt;Some useful GitHub vocabulary (from &lt;a href=&quot;https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/&quot;&gt;this guide&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt;: A way to write text files so that they are rendered beautifully on Github without the hastle of using &lt;code class=&quot;highlighter-rouge&quot;&gt;html&lt;/code&gt;. For instance, if you start a line with &lt;code class=&quot;highlighter-rouge&quot;&gt;# This is a title&lt;/code&gt;, it will be rendered by Github as a Top-level title (as &lt;code class=&quot;highlighter-rouge&quot;&gt;# Github at cc-ai : getting started 🥋&lt;/code&gt;). If you add a &lt;code class=&quot;highlighter-rouge&quot;&gt;#&lt;/code&gt; it will be displayed as a secondary title (as &lt;code class=&quot;highlighter-rouge&quot;&gt;## Vocabulary 🙊 &lt;/code&gt;) and so on until &lt;code class=&quot;highlighter-rouge&quot;&gt;###### minor title&lt;/code&gt;. Including links is extremely easy too! &lt;code class=&quot;highlighter-rouge&quot;&gt;[website](https://website.com)&lt;/code&gt; will be rendered like this: &lt;a href=&quot;https://website.com&quot;&gt;website&lt;/a&gt;. These special text files have a &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; extension. On GitHub if there is a &lt;code class=&quot;highlighter-rouge&quot;&gt;Readme.md&lt;/code&gt; file in the current folder you’re looking into, it will be automatically rendered. If you click on a specific &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; file, it will also be rendered. To see the &lt;code class=&quot;highlighter-rouge&quot;&gt;raw&lt;/code&gt; text, before rendering, you can just click on the &lt;code class=&quot;highlighter-rouge&quot;&gt;raw&lt;/code&gt; button (no shit…). Remember: Markdown is easy, ask for help if you’re stuck with something. In the mean time, &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;&lt;strong&gt;checkout this cheatsheet to learn in 2 minutes how to use Markdown&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img alt=&quot;editting a readme&quot; src=&quot;https://media.giphy.com/media/TKifS1eBNfEud7jQuy/giphy.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repository or Repo&lt;/strong&gt; : A directory or storage space where your projects can live. It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Commit&lt;/strong&gt;: This is the command that gives Git its power. When you commit, you are taking a “snapshot” of your repository at that point in time, giving you a checkpoint to which you can reevaluate or restore your project to any previous state.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Branch&lt;/strong&gt;: How do multiple people work on a project at the same time without Git getting them confused? Usually, they “branch off” of the main project with their own versions full of changes they themselves have made. After they’re done, it’s time to “merge” that branch back with the “master,” the main directory of the project.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Issue&lt;/strong&gt;: Although the name may sound negative &lt;i&gt; (“Oh no, there’s an issue with my project!”) &lt;/i&gt;, ‘issue’ is just the name used by GitHub for different tasks that contributors can assign to themselves. You can open an issue when you’ve defined it as something that needs to be worked on, tag it with labels depending on what it involves, and then assign it to yourself (or someone else!). A very important document that explains this workflow for the &lt;strong&gt;cc-ai project&lt;/strong&gt; process can be found &lt;a href=&quot;https://github.com/cc-ai/kdb/tree/master/workflow&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-will-use-github-for-&quot;&gt;What we will use GitHub for 🔦&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sharing code&lt;/strong&gt; : for the coders among us, GitHub will be a way to test out different parameters, make changes to the code, clone (a.k.a.) copy other repositories that we can test, share results, etc. This will be done via the various repositories in the project, which can be seen at https://github.com/cc-ai&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tracking progress:&lt;/strong&gt; Even if the task that you are working on doesn’t involve coding (e.g. literature review, experimental testing, etc.), it’s useful for the rest of the team to know that you are working on a certain task (or issue), and what the progress on it is: whether it is open, closed, in progress, pending, etc. We will do this via the Kanban: https://github.com/cc-ai/kdb/projects/4&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sharing resources:&lt;/strong&gt; A section of the repository is dedicated specifically to sharing common resources : https://github.com/cc-ai/kdb/tree/master/resources. These can be research papres, code, news articles, tools, etc. If you encounter something useful in your literature review (or even during your spare time!), add it to the resource section!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sharing ideas:&lt;/strong&gt;  If you see an open ticket that is labelled as “help wanted”, or if you simply have an idea about a task that someone else is working on, don’t hesitate to leave a comment on the issue: it can help open a discussion and generate new ideas!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Collaborating with external contributors:&lt;/strong&gt; We are lucky enough to have a group of people interested in CCAI, who want to help us with different tasks depending on their domain of expertise: UI design, front-end development, economics.. the sky is the limit! To make this collaboration as smooth as possible, we want to give them specific tasks and ways to help us, check in with progress, ask questions, etc. GitHub is the place to do this!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;some-brief-tutorials&quot;&gt;Some Brief Tutorials&lt;/h2&gt;
+
+&lt;h3 id=&quot;adding-a-paper-from-a-link&quot;&gt;Adding a paper from a link&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;From the home page (https://github.com/cc-ai/kdb) click on &lt;code class=&quot;highlighter-rouge&quot;&gt;resources&lt;/code&gt; in the top folder structure, then on &lt;code class=&quot;highlighter-rouge&quot;&gt;papers&lt;/code&gt; (or the link provided): you should be at https://github.com/cc-ai/kdb/tree/master/resources/papers&lt;/li&gt;
+  &lt;li&gt;Remember, &lt;strong&gt;by default, Github displays the file called &lt;code class=&quot;highlighter-rouge&quot;&gt;Readme.md&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;You can edit this file and add your preferred paper by clicking on the pencil icon to the top right of the displayed Readme&lt;/li&gt;
+  &lt;li&gt;Add a line with your paper line this &lt;code class=&quot;highlighter-rouge&quot;&gt;* [paper title](https:// link to paper)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img alt=&quot;adding a link&quot; src=&quot;https://media.giphy.com/media/co5O8kmFcr0kv6kj7M/giphy.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;adding-a-paper-from-a-pdf&quot;&gt;Adding a paper from a pdf&lt;/h3&gt;
+
+&lt;p&gt;If you can simply add a link to this pdf, it’s better as it makes the hole repository heavier for others to sync with. But if you can’t and want to share the file, here’s how to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Host it elsewhere (Google Drive or something)&lt;/li&gt;
+  &lt;li&gt;Host it on the repository
+    &lt;ul&gt;
+      &lt;li&gt;From the home page (https://github.com/cc-ai/kdb) click on &lt;code class=&quot;highlighter-rouge&quot;&gt;resources&lt;/code&gt; in the top folder structure, then on &lt;code class=&quot;highlighter-rouge&quot;&gt;papers&lt;/code&gt; (or the link provided): you should be at https://github.com/cc-ai/kdb/tree/master/resources/papers&lt;/li&gt;
+      &lt;li&gt;Click on &lt;code class=&quot;highlighter-rouge&quot;&gt;Upload files&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Drag and drop or &lt;code class=&quot;highlighter-rouge&quot;&gt;choose your files&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Commit (= save)&lt;/li&gt;
+      &lt;li&gt;Copy link to file&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Add the hosted file link to the &lt;code class=&quot;highlighter-rouge&quot;&gt;Readme.md&lt;/code&gt; as described previously&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img alt=&quot;adding a pdf&quot; src=&quot;https://media.giphy.com/media/SwmmifQOkBjdrGGzcT/giphy.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;opening-an-issue&quot;&gt;Opening an issue&lt;/h3&gt;
+
+&lt;h4 id=&quot;why&quot;&gt;Why&lt;/h4&gt;
+
+&lt;p&gt;Remember, issues are used to track problems, open discussions about a topic or simply create a task to be done. Basic use cases include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Getting people’s opinion on a matter (like victo did for the who’s who -&amp;gt; &lt;a href=&quot;https://github.com/cc-ai/kdb/issues/39&quot;&gt;see #39&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Signaling a bug in some code (unexpected behavior, error in execution, installation issues and so on)&lt;/li&gt;
+  &lt;li&gt;Reminding yourself (and possibly others) about something to be done (like the example issue below -&amp;gt; &lt;a href=&quot;https://github.com/cc-ai/kdb/issues/43&quot;&gt;see #43&lt;/a&gt; )&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;how&quot;&gt;How&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;From the home page (https://github.com/cc-ai/kdb) click on &lt;code class=&quot;highlighter-rouge&quot;&gt;issues&lt;/code&gt; in the top folder structure: this should bring you to https://github.com/cc-ai/kdb/issues&lt;/li&gt;
+  &lt;li&gt;This will show you the list of currently open issues&lt;/li&gt;
+  &lt;li&gt;You can filter the issues by &lt;code class=&quot;highlighter-rouge&quot;&gt;Author&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Labels&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Assignee&lt;/code&gt;, or sort by date&lt;/li&gt;
+  &lt;li&gt;To open a new issue, click on &lt;code class=&quot;highlighter-rouge&quot;&gt;New Issue&lt;/code&gt;, in green at the top right of the list of open issues&lt;/li&gt;
+  &lt;li&gt;When opening an issue, you should add: a title and a brief (one or two sentence) summary&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Don’t forget to label it with the corresponding label from the &lt;code class=&quot;highlighter-rouge&quot;&gt;Labels&lt;/code&gt; dropdown list on the right&lt;/strong&gt; (for more information about labels, read this: https://github.com/cc-ai/kdb/tree/master/workflow)&lt;/li&gt;
+  &lt;li&gt;If you already know who will be working on the issue, add an &lt;code class=&quot;highlighter-rouge&quot;&gt;Assignee&lt;/code&gt; from the list on the right. If not, you can leave it blank.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;img alt=&quot;adding a pdf&quot; src=&quot;https://media.giphy.com/media/IevI50cAejhnehJ7oH/giphy.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;assigning-an-issue-to-yourself&quot;&gt;Assigning an issue to yourself&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When you have found an issue that you want to tackle, possibly opened by someone else, click on its name&lt;/li&gt;
+  &lt;li&gt;To assign it to yourself, click &lt;code class=&quot;highlighter-rouge&quot;&gt;Assignees&lt;/code&gt; on the right of the screen and select your GitHub handle from the list&lt;/li&gt;
+  &lt;li&gt;If you want to add details or comments, use the Write section at the bottom of the page&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;closing-an-issue&quot;&gt;Closing an issue&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When the issue is solved, use the &lt;code class=&quot;highlighter-rouge&quot;&gt;close and comment&lt;/code&gt; button&lt;/li&gt;
+  &lt;li&gt;You can always re-open an issue later if the fix is not complete or the same problem arises in a new context or whatever&lt;/li&gt;
+  &lt;li&gt;For instance, the example issue above, &lt;a href=&quot;https://github.com/cc-ai/kdb/issues/43&quot;&gt;#43&lt;/a&gt;, is now closed because gifs have been added&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bravo! You’re all set!&lt;/strong&gt; 💪 Now checkout &lt;a href=&quot;https://github.com/cc-ai/kdb/tree/master/workflow#issues-and-labels-&quot;&gt;the workflow’s guide on using cc-ai’s labels on issues&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-started-️&quot;&gt;Getting Started ⚡️&lt;/h2&gt;
+
+&lt;p&gt;If you want to just dive in and get your hands dirty - go for it! Look at the tickets in the &lt;a href=&quot;https://github.com/orgs/cc-ai/projects/2&quot;&gt;Kanban&lt;/a&gt;, choose the one that fits what you will start working on (check with Sasha or Karthik if you don’t know what to pick), and get started!&lt;/p&gt;
+
+&lt;p&gt;If you want more information about GitHub (or Git), or to learn how to use it via command line, you can check out the resources below:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/&quot;&gt;GitHub for beginners Part 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://readwrite.com/2013/10/02/github-for-beginners-part-2/&quot;&gt;GitHub for beginners Part 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.edureka.co/blog/how-to-use-github/&quot;&gt;How to Use GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about GitHub, don’t hesitate to reach out to Sasha Luccioni (&lt;a href=&quot;https://github.com/sashavor&quot;&gt;@sashavor&lt;/a&gt;) or Victor Schmidt (&lt;a href=&quot;https://github.com/vict0rsch&quot;&gt;@vict0rsch&lt;/a&gt;) or simply &lt;a href=&quot;https://github.com/cc-ai/kdb/issues/new&quot;&gt;open an issue&lt;/a&gt;, we’ll help you ! 👩‍✈️ 👨‍✈️&lt;/p&gt;</content><author><name>vict0rsch</name><email>schmidtv@mila.quebec</email></author><summary type="html">Github at cc-ai : getting started 🥋</summary></entry><entry><title type="html">An example file to play around with markdown</title><link href="https://cc-ai.github.io/workflow/workflow-example/" rel="alternate" type="text/html" title="An example file to play around with markdown" /><published>2019-05-01T00:00:00+00:00</published><updated>2019-05-01T00:00:00+00:00</updated><id>https://cc-ai.github.io/workflow/workflow-example</id><content type="html" xml:base="https://cc-ai.github.io/workflow/workflow-example/">&lt;h1 id=&quot;an-example-file-to-play-around-with-markdown&quot;&gt;An example file to play around with markdown&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://9gag.com&quot;&gt;9gag&lt;/a&gt;&lt;/p&gt;</content><author><name>vict0rsch</name><email>schmidtv@mila.quebec</email></author><summary type="html">An example file to play around with markdown</summary></entry><entry><title type="html">Workflow 🌊</title><link href="https://cc-ai.github.io/workflow/workflow-Readme/" rel="alternate" type="text/html" title="Workflow 🌊" /><published>2019-05-01T00:00:00+00:00</published><updated>2019-05-01T00:00:00+00:00</updated><id>https://cc-ai.github.io/workflow/workflow-Readme</id><content type="html" xml:base="https://cc-ai.github.io/workflow/workflow-Readme/">&lt;h1 id=&quot;workflow-&quot;&gt;Workflow 🌊&lt;/h1&gt;
+
+&lt;h2 id=&quot;how-we-use-github-&quot;&gt;How we use Github 🚉&lt;/h2&gt;
+
+&lt;p&gt;(New to Github ? -&amp;gt; &lt;a href=&quot;/workflow/gettingstarted.md&quot;&gt;How to get started w/ Github, cc-ai style&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Code repositories depend on the &lt;code class=&quot;highlighter-rouge&quot;&gt;cc-ai&lt;/code&gt; &lt;em&gt;organization&lt;/em&gt;, managed by @vict0rsch and @sashavor.&lt;/p&gt;
+
+&lt;p&gt;There are 2 teams (mainly):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://github.com/orgs/cc-ai/teams/core&quot;&gt;Core Team&lt;/a&gt; is composed of people at Mila working at least 50% of their time on this project&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://github.com/orgs/cc-ai/teams/contributors&quot;&gt;Contributors Team&lt;/a&gt; is composed of people affiliated to other organizations and/or volunteering to spend some time on this project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The organization currently has these repositories:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cc-ai/kdb&quot;&gt;kdb&lt;/a&gt; -&amp;gt; this is the main shared repo, the CC-AI Knowledge Base&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cc-ai/floods-frontend&quot;&gt;floods-frontend&lt;/a&gt; (self-explanatory)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cc-ai/floods-backend&quot;&gt;floods-backend&lt;/a&gt; (self-explanatory)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cc-ai/floods-gans&quot;&gt;floods-gans&lt;/a&gt; -&amp;gt; where we experiment with generative models to simulate floods&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you’d rather have your own cc-ai repository for the task you work on, feel free to open a &lt;img src=&quot;https://img.shields.io/badge/domain:meta-202ea5.svg&quot; alt=&quot;&quot; /&gt; issue&lt;/p&gt;
+
+&lt;h3 id=&quot;good-practices-&quot;&gt;Good practices 👍&lt;/h3&gt;
+
+&lt;h4 id=&quot;git-&quot;&gt;Git 🌵&lt;/h4&gt;
+
+&lt;p&gt;Read through &lt;a href=&quot;https://github.com/RomuloOliveira/commit-messages-guide&quot;&gt;these commit guidelines&lt;/a&gt; (~10 min) as they will help us work together better. A little more advanced content can be found &lt;a href=&quot;https://www.atlassian.com/git/tutorials/merging-vs-rebasing&quot;&gt;here - it walks you though the differences between merging and rebasing branches&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Also if you like Github from the command line, checkout Github’s own tool: &lt;a href=&quot;https://github.com/github/hub&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;hub&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;the-ccai-status-project-&quot;&gt;The CCAI Status Project 🔔&lt;/h4&gt;
+
+&lt;p&gt;If you click on &lt;code class=&quot;highlighter-rouge&quot;&gt;Projects&lt;/code&gt;, to the right of &lt;code class=&quot;highlighter-rouge&quot;&gt;Issues&lt;/code&gt;, you’ll find the &lt;a href=&quot;https://github.com/cc-ai/kdb/projects/4&quot;&gt;CCAI Status project&lt;/a&gt;. This Kanban-style project helps us track issues and tasks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you create an issue&lt;/strong&gt; add it to the &lt;code class=&quot;highlighter-rouge&quot;&gt;CCAI Status&lt;/code&gt; project (to the right of the issue editting interface, below &lt;code class=&quot;highlighter-rouge&quot;&gt;Assignees&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Labels&lt;/code&gt;) &lt;strong&gt;iff&lt;/strong&gt; it is a concrete 🔬 issue (bug, to do etc.). Please keep open discussions (as #16 or #37, &lt;em&gt;i.e.&lt;/em&gt; issues with the &lt;a href=&quot;https://github.com/cc-ai/kdb/labels/discussion&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/discussion-d876e3.svg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; label) out of there.&lt;/p&gt;
+
+&lt;p&gt;You can always add an issue using the &lt;code class=&quot;highlighter-rouge&quot;&gt;+ Add card&lt;/code&gt; button to the top right of the project’s page.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do update the status of issues you are assigned&lt;/strong&gt;❗&lt;/p&gt;
+
+&lt;h3 id=&quot;issues-and-labels-&quot;&gt;Issues and Labels 💥&lt;/h3&gt;
+
+&lt;p&gt;Some guidelines to understand our &lt;strong&gt;issues and labels&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;kdb&lt;/code&gt;’s &lt;a href=&quot;https://github.com/cc-ai/kdb/issues&quot;&gt;issues&lt;/a&gt; for general purpose issues the community should be aware or any kind of question you have&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;If you work on a specific repository (&lt;a href=&quot;https://github.com/cc-ai/floods-gans&quot;&gt;floods-gans&lt;/a&gt; for instance) use its issues for everyday tasks, but &lt;a href=&quot;https://github.com/cc-ai/kdb/issues&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;kdb&lt;/code&gt;’s&lt;/a&gt; for general concerns&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Assign people to issues (maybe yourself)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use Labels!&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Use the &lt;a href=&quot;https://github.com/cc-ai/kdb/labels/work%20in%20progress&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/work%20in%20progress-ededed.svg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; label to acknowledge the issue and state you’ve started working on it&lt;/li&gt;
+      &lt;li&gt;Use the &lt;strong&gt;priority&lt;/strong&gt; tags (&lt;a href=&quot;https://github.com/cc-ai/kdb/labels/priority%3Ahigh&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/priority:high-16f9c1.svg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; or &lt;a href=&quot;https://github.com/cc-ai/kdb/labels/priority%3Alow&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/priority:low-efff8c.svg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;)&lt;/li&gt;
+      &lt;li&gt;Label as &lt;a href=&quot;https://github.com/cc-ai/kdb/labels/domain%3Ameta&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/domain:meta-202ea5.svg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; issues relating to the overall CC-AI project and its management&lt;/li&gt;
+      &lt;li&gt;Use the &lt;a href=&quot;https://github.com/cc-ai/kdb/labels/keep%20in%20mind&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/keep%20in%20mind-c0cef7.svg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; label to signal thoughts you’ve had which may someday be relevant&lt;/li&gt;
+      &lt;li&gt;Even if you’re not &lt;em&gt;assigned&lt;/em&gt; to an issue, if it bears the &lt;a href=&quot;https://github.com/cc-ai/kdb/labels/good%20first%20issue&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/good%20first%20issue-7057ff.svg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; tag you probably can still do something&lt;/li&gt;
+      &lt;li&gt;If you’re in some kind of trouble and need people’s advice, use the &lt;a href=&quot;https://github.com/cc-ai/kdb/labels/help%20wanted&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/help%20wanted-008672.svg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;To open a discussion about anything, get people’s opinions, use the &lt;a href=&quot;https://github.com/cc-ai/kdb/labels/discussion&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/discussion-d876e3.svg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;The &lt;a href=&quot;https://github.com/cc-ai/kdb/labels/priority%3Acritical&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/priority:critical-FF0000.svg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; label should never be used. Except for extraordinary issues.&lt;/li&gt;
+      &lt;li&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;domain:&lt;/code&gt; labels for people to be able to quickly pick up what’s relevant to them. See &lt;a href=&quot;/domains&quot;&gt;domains&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Close&lt;/strong&gt; issues when resolved. They may be re-openned later on. You may also &lt;strong&gt;lock&lt;/strong&gt; a conversation if the decision is final.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Suggest improvements&lt;/strong&gt; to these guidelines and practices&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;reusing-kdbs-labels-in-other-repositories-&quot;&gt;Reusing &lt;code class=&quot;highlighter-rouge&quot;&gt;kdb&lt;/code&gt;’s labels in other repositories 🏷&lt;/h3&gt;
+
+&lt;p&gt;This procedure describes how to import &lt;code class=&quot;highlighter-rouge&quot;&gt;kdb&lt;/code&gt;’s labels into your repositories / other cc-ai repositories.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This will overwrite your labels&lt;/strong&gt; so if you want your own labels you can do this once and then delete &lt;code class=&quot;highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; otherwise it will delete your repo-specific labels when pushed later on.&lt;/p&gt;
+
+&lt;p&gt;Add a &lt;code class=&quot;highlighter-rouge&quot;&gt;.github&lt;/code&gt; folder and a &lt;code class=&quot;highlighter-rouge&quot;&gt;.github/settings.yml&lt;/code&gt; at the repo’s root.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If&lt;/strong&gt; &lt;a href=&quot;labels.yml&quot;&gt;labels.yml&lt;/a&gt; is up to date, copy its content into your &lt;code class=&quot;highlighter-rouge&quot;&gt;.github/settings.yml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Otherwise&lt;/strong&gt; run &lt;a href=&quot;https://gist.github.com/Vict0rSch/188a60f1e87a68844e41082583df64c4&quot;&gt;&lt;strong&gt;this script&lt;/strong&gt;&lt;/a&gt; in your browser console on page https://github.com/cc-ai/kdb/labels and add the created file to &lt;code class=&quot;highlighter-rouge&quot;&gt;.github/&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;It works like this:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Get &lt;code class=&quot;highlighter-rouge&quot;&gt;labels&lt;/code&gt; as a list of objects with fields &lt;code class=&quot;highlighter-rouge&quot;&gt;name&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;color&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;description&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Create a &lt;code class=&quot;highlighter-rouge&quot;&gt;yml&lt;/code&gt;-compatible string &lt;code class=&quot;highlighter-rouge&quot;&gt;out&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Download &lt;code class=&quot;highlighter-rouge&quot;&gt;out&lt;/code&gt; as a &lt;code class=&quot;highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; file&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;slack-&quot;&gt;Slack 📡&lt;/h2&gt;
+
+&lt;p&gt;Follow the &lt;code class=&quot;highlighter-rouge&quot;&gt;#git-kdb&lt;/code&gt; channel to monitor this repo’s activity. If you’re not in our workspace, see &lt;a href=&quot;https://github.com/cc-ai/kdb#contact-%EF%B8%8F&quot;&gt;contact&lt;/a&gt;&lt;/p&gt;</content><author><name>vict0rsch</name><email>schmidtv@mila.quebec</email></author><summary type="html">Workflow 🌊</summary></entry><entry><title type="html">Websites 🖥</title><link href="https://cc-ai.github.io/resources/resources-websites-Readme/" rel="alternate" type="text/html" title="Websites 🖥" /><published>2019-05-01T00:00:00+00:00</published><updated>2019-05-01T00:00:00+00:00</updated><id>https://cc-ai.github.io/resources/resources-websites-Readme</id><content type="html" xml:base="https://cc-ai.github.io/resources/resources-websites-Readme/">&lt;h1 id=&quot;websites-&quot;&gt;Websites 🖥&lt;/h1&gt;
+
+&lt;h2 id=&quot;environmental-inspiration&quot;&gt;Environmental inspiration&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hazegazer.org/#m-taketour&quot;&gt;Hazegazer&lt;/a&gt; : Real-time analysis and visualization tool for enhanced crisis management&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://prepdata.org/dashboards/uttarakhand-tourism#extreme-heat-days&quot;&gt;Uttarakhand Tourism&lt;/a&gt; : With a combination of climate data, hazard data, socioeconomic data, tourism data and climate projections, this dashboard provides insights into trends, current and future vulnerabilities of this sensitive sector.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projectxglobal.com/&quot;&gt;Project X&lt;/a&gt; : Project X is a WWF founded corporate accelerator which helps organisations adopt sustainable innovations in their supply chains. Our focus is to help entire industries step change their sustainability performance, together.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ici.radio-canada.ca/info/2019/03/neige-accumulation-hiver-quebec-environnement-meteo-gel-degel/index-fr.html&quot;&gt;Les hivers enneigés de votre enfance ne reviendront jamais (Radio Canada)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ux-inspiration&quot;&gt;UX inspiration&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nucleardissent.com/fallout-map&quot;&gt;Nuclear Dissent&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.360syria.com/&quot;&gt;360 Syria&lt;/a&gt; (Amnesty International)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>vict0rsch</name><email>schmidtv@mila.quebec</email></author><summary type="html">Websites 🖥</summary></entry><entry><title type="html">Tools 🛠</title><link href="https://cc-ai.github.io/resources/resources-tools-Readme/" rel="alternate" type="text/html" title="Tools  🛠" /><published>2019-05-01T00:00:00+00:00</published><updated>2019-05-01T00:00:00+00:00</updated><id>https://cc-ai.github.io/resources/resources-tools-Readme</id><content type="html" xml:base="https://cc-ai.github.io/resources/resources-tools-Readme/">&lt;h1 id=&quot;tools--&quot;&gt;Tools  🛠&lt;/h1&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;https://add0n.com/save-images.html (download all images in your browser’s current page)&lt;/li&gt;
+  &lt;li&gt;https://github.com/fidler-lab/curve-gcn (Fast Interactive Object Annotation with Curve-GCN - CVPR 2019)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;dev&quot;&gt;Dev&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/codercom/sshcode&quot;&gt;sshcode&lt;/a&gt; Run VS Code on any server over SSH.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cool-RR/PySnooper&quot;&gt;PySnooper&lt;/a&gt; Never use print for debugging again&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tqdm/tqdm&quot;&gt;tqdm&lt;/a&gt; A fast, extensible progress bar for Python and CLI&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>vict0rsch</name><email>schmidtv@mila.quebec</email></author><summary type="html">Tools 🛠 Images</summary></entry><entry><title type="html">Papers 📜</title><link href="https://cc-ai.github.io/resources/resources-papers-Readme/" rel="alternate" type="text/html" title="Papers 📜" /><published>2019-05-01T00:00:00+00:00</published><updated>2019-05-01T00:00:00+00:00</updated><id>https://cc-ai.github.io/resources/resources-papers-Readme</id><content type="html" xml:base="https://cc-ai.github.io/resources/resources-papers-Readme/">&lt;h1 id=&quot;papers-&quot;&gt;Papers 📜&lt;/h1&gt;
+
+&lt;p&gt;These are the most relevant papers, do add the ones you like too!&lt;/p&gt;
+
+&lt;p&gt;We’re also building a more exhaustive list on Zotero. &lt;a href=&quot;https://www.zotero.org/groups/2291580/ccai&quot;&gt;Join our team&lt;/a&gt; and share your papers there too :)&lt;/p&gt;
+
+&lt;h2 id=&quot;ml&quot;&gt;ML&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/pdf/1703.10593.pdf&quot;&gt;Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1806.02311&quot;&gt;Unsupervised Attention-guided Image-to-Image Translation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1903.07291&quot;&gt;Semantic Image Synthesis with Spatially-Adaptive Normalization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1802.06474&quot;&gt;A Closed-form Solution to Photorealistic Image Stylization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1805.09730&quot;&gt;Image-to-image translation for cross-domain disentanglement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openreview.net/pdf?id=ryxwJhC9YX&quot;&gt;InstaGAN: Instance-aware image-to-image translation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1903.07291&quot;&gt;Semantic Image Synthesis with Spatially-Adaptive Normalization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>vict0rsch</name><email>schmidtv@mila.quebec</email></author><summary type="html">Papers 📜</summary></entry><entry><title type="html">Outreach 📣</title><link href="https://cc-ai.github.io/resources/resources-outreach-Readme/" rel="alternate" type="text/html" title="Outreach 📣" /><published>2019-05-01T00:00:00+00:00</published><updated>2019-05-01T00:00:00+00:00</updated><id>https://cc-ai.github.io/resources/resources-outreach-Readme</id><content type="html" xml:base="https://cc-ai.github.io/resources/resources-outreach-Readme/">&lt;h1 id=&quot;outreach-&quot;&gt;Outreach 📣&lt;/h1&gt;
+
+&lt;p&gt;A folder to store outreach documents and presentations.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1WQtugSBgMVB-i0RhgCg_qaP7WDj7aimWvpZytKTEqY4/edit&quot;&gt;Executive Summary&lt;/a&gt; (Yoshua Bengio and Jennifer Chayes) (01/19) (Google Doc)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slides.com/vict0rsch/ccai-1#/&quot;&gt;Slide deck&lt;/a&gt; (Victor Schmidt) (early 02/19) (Slides.io)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>vict0rsch</name><email>schmidtv@mila.quebec</email></author><summary type="html">Outreach 📣</summary></entry><entry><title type="html">News 🗞</title><link href="https://cc-ai.github.io/resources/resources-news-Readme/" rel="alternate" type="text/html" title="News 🗞" /><published>2019-05-01T00:00:00+00:00</published><updated>2019-05-01T00:00:00+00:00</updated><id>https://cc-ai.github.io/resources/resources-news-Readme</id><content type="html" xml:base="https://cc-ai.github.io/resources/resources-news-Readme/">&lt;h1 id=&quot;news-&quot;&gt;News 🗞&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.stanforddaily.com/2019/04/09/andrew-ng-hosts-symposium-on-climate-change-ai/?fbclid=IwAR2UkUFraOJN3v-tQu8E1aoAipy8zPnK5HncsR40Vv2brdJwrIGIXs3NHJk&quot;&gt;Andrew Ng hosts symposium on AI and climate change, invites students to bootcamp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/weather-channel-climate-change-immersive-mixed-reality/&quot;&gt;The Weather Channel flooded Charleston to make you give a damn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>vict0rsch</name><email>schmidtv@mila.quebec</email></author><summary type="html">News 🗞</summary></entry><entry><title type="html">Data 💾</title><link href="https://cc-ai.github.io/resources/resources-data-Readme/" rel="alternate" type="text/html" title="Data 💾" /><published>2019-05-01T00:00:00+00:00</published><updated>2019-05-01T00:00:00+00:00</updated><id>https://cc-ai.github.io/resources/resources-data-Readme</id><content type="html" xml:base="https://cc-ai.github.io/resources/resources-data-Readme/">&lt;h1 id=&quot;data-&quot;&gt;Data 💾&lt;/h1&gt;</content><author><name>vict0rsch</name><email>schmidtv@mila.quebec</email></author><summary type="html">Data 💾</summary></entry></feed>
