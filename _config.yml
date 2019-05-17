@@ -1,6 +1,5 @@
 # ----
 # Site
-
 title: CCAI - KDB
 url: "https://cc-ai.github.io"
 baseurl:
@@ -11,8 +10,8 @@ newsletter_action:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Climate Change AI project at Mila's shared knowledge base
-author: vict0rsch
-  name:
+author:
+  name: vict0rsch
   email: schmidtv@mila.quebec
   twitter: vict0rsch # twitter username without the @ symbol
 social:
@@ -43,29 +42,24 @@ exclude:
 collections:
   sets:
 
-
 jekyll-archives:
-  enabled: ['categories']
+  enabled: ["categories"]
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       type: "posts"
     values:
       layout: "post"
       comments: true
-  -
-    scope:
+  - scope:
       type: "sets"
     values:
       _hide_content: true
-  -
-    scope:
+  - scope:
       path: "index.html"
     values:
       body_class: "show_hero_search"
