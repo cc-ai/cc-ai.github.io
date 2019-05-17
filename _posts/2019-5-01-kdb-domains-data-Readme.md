@@ -1,11 +1,11 @@
 ---
-title: "Data"
+title: "Data \U0001f381"
 categories:
-  - domains
-set: domains
+  - kdb
+set: kdb
 ---
 
-# Data 
+# Data 🎁
 
 ## Acquisition
 

@@ -1,8 +1,8 @@
 ---
 title: "Shared Resources \u2600\ufe0f"
 categories:
-  - resources
-set: resources
+  - kdb
+set: kdb
 ---
 
 # Shared Resources ☀️

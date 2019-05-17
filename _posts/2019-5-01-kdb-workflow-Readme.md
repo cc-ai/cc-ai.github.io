@@ -1,8 +1,8 @@
 ---
 title: "Workflow \U0001f30a"
 categories:
-  - workflow
-set: workflow
+  - kdb
+set: kdb
 ---
 
 # Workflow 🌊

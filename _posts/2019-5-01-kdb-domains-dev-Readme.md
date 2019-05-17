@@ -1,8 +1,8 @@
 ---
 title: "Web development \U0001f52e"
 categories:
-  - domains
-set: domains
+  - kdb
+set: kdb
 ---
 
 # Web development 🔮

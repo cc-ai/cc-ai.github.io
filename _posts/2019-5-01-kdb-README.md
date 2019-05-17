@@ -1,6 +1,12 @@
 ---
-main: true
+title: error
+categories:
+  - kdb
+set: kdb
 ---
+
+
+<img align="center" src="https://i.postimg.cc/cLJGvwyw/visceralizing-cc.png" alt="logo"></img>
 
 <h3 align="center">CC-AI Shared Knowledge Database</h3>
 

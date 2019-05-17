@@ -1,8 +1,8 @@
 ---
 title: "User Research \U0001f4c7"
 categories:
-  - domains
-set: domains
+  - kdb
+set: kdb
 ---
 
 # User Research 📇

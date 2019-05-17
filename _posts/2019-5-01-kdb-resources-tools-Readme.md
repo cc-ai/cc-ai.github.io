@@ -1,8 +1,8 @@
 ---
 title: "Tools  \U0001f6e0"
 categories:
-  - resources
-set: resources
+  - kdb
+set: kdb
 ---
 
 # Tools  🛠

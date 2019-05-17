@@ -1,8 +1,8 @@
 ---
 title: "Climate modeling \U0001f32a"
 categories:
-  - domains
-set: domains
+  - kdb
+set: kdb
 ---
 
 # Climate modeling 🌪

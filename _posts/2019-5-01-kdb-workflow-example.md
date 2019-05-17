@@ -1,8 +1,8 @@
 ---
 title: "An example file to play around with markdown"
 categories:
-  - workflow
-set: workflow
+  - kdb
+set: kdb
 ---
 
 # An example file to play around with markdown

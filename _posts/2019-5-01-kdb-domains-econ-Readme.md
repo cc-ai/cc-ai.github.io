@@ -1,8 +1,8 @@
 ---
 title: "Economic Modeling"
 categories:
-  - domains
-set: domains
+  - kdb
+set: kdb
 ---
 
 # Economic Modeling

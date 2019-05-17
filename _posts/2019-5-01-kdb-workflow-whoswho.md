@@ -1,8 +1,8 @@
 ---
 title: "Who's who?"
 categories:
-  - workflow
-set: workflow
+  - kdb
+set: kdb
 ---
 
 # Who's who?
