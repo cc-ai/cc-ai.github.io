@@ -26,7 +26,7 @@ def format_kdb(tmp, _posts):
         _set = name.split("-")[0]
 
         date = datetime.datetime.fromtimestamp(int(os.path.getmtime(str(md))))
-        new_name = "{}-{}-{}-{}".format(date.year, date.month, date.day, name)
+        new_name = "{}-{}-{}-{}".format(date.year, date.month, "01", name)
 
         new_file = dest / new_name
         with md.open("r") as f:
