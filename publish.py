@@ -2,6 +2,67 @@ import shutil
 import os
 from pathlib import Path
 import subprocess
+import datetime
+
+
+def format_kdb(tmp, _posts):
+
+    ref = set(str(tmp).split("/"))
+
+    dest = _posts
+
+    if dest.exists():
+        shutil.rmtree(str(dest.resolve()))
+    mds = list(tmp.glob("**/*.md"))
+
+    dest.mkdir()
+
+    for md in mds:
+        name = "-".join(d for d in str(md).split("/") if d not in ref)
+
+        is_main_readme = "-" not in name
+
+        categories = "  - " + name.split("-")[0]
+        _set = name.split("-")[0]
+
+        date = datetime.datetime.fromtimestamp(int(os.path.getmtime(str(md))))
+        new_name = "{}-{}-{}-{}".format(date.year, date.month, date.day, name)
+
+        new_file = dest / new_name
+        with md.open("r") as f:
+            lines = f.readlines()
+
+        # fields = "title, categories, description, set"
+
+        title = "error"
+        for i, l in enumerate(lines):
+            if l.startswith("# "):
+                title = '"{}"'.format(
+                    l.split("# ")[1]
+                    .strip()
+                    .encode("unicode-escape")
+                    .decode("utf-8")
+                    .replace('"', "'")
+                )
+                # lines[i] = ""
+                if not is_main_readme:
+                    break
+            if is_main_readme and "<img" in l:
+                lines[i] = ""
+                break
+
+        if is_main_readme:
+            frontmatter = "---\nmain: true\n---"
+        else:
+            frontmatter = "---\ntitle: {}\ncategories:\n{}\nset: {}\n---\n\n".format(
+                title, categories, _set
+            )
+
+        new_lines = [frontmatter] + lines
+
+        with new_file.open("w") as f:
+            f.writelines(new_lines)
+
 
 if __name__ == "__main__":
     p = Path()
@@ -24,11 +85,13 @@ if __name__ == "__main__":
     _posts = p / "_posts"
 
     print("Fetching files...", end="")
-    os.system("cd {} && git clone {} && python format.py".format(str(tmp), repo))
+    os.system("cd {} && git clone {}".format(str(tmp), repo))
     print("ok.")
 
     shutil.rmtree(_posts)
-    shutil.move(tmp, _posts)
+    _posts.mkdir()
+    format_kdb(tmp, _posts)
+    shutil.rmtree(tmp)
 
     os.system("rake publish")
 
